@@ -1,0 +1,65 @@
+Compatiable Mods
+Sodium - Performance improvements (way better than Optifine)
+Lithium - Server optimizations
+Starlight - Lighting engine rewrite (better compared to Phosphor)
+Nvidium - Experimental mod FOR NVIDIA GPUs ONLY, that massively increases performance, should be compatible with most mods, automatically disables itself if and when shaders are enabled as it does not work with Iris, requires Sodium
+Enhanced Block Entities - Improved block entity rendering, significantly faster than vanilla
+FastAnim - Vastly improves entity animation calculations
+Immediately Fast - Improves immediate mode rendering performance
+No Telemetry - Just disables Telemetry
+Very Many Players - Improves performance with lots of players online
+Video tape - GPU fixes and optimizations
+More Culling - Better culling, Requires Sodium
+More Culling Extra - Even more culling
+Modern Fix - General bugfix and optimization mod
+LazyDFU - Makes minecraft start up faster
+Exordium - Renders GUIs, HUD elements, etc. at a lower framerate to speed up world rendering
+Ksyxis - Speeds up world loading
+Alternate Current - Speeds up redstone calculations
+Blanket - general bugfix mod
+Concurrent Chunk Management Engine - Improve chunkloading performance
+FerriteCore - Memory Usage optimizations
+Entity Culling - It's... it's entity culling. That's about it.
+Noxesium - Performance improvements and QOL stuff
+Shaders, Rendering, and Resource Pack features
+Iris - Shaders mod for Minecraft compatible with ShadersMod/Optifine shaders. Compatible with Sodium.
+Canvas Renderer - A new rendering engine. Incompatible with Sodium
+Animatica - Optifine and MCPatcher animated texture format support
+Indium - Adds Fabric Rendering API support to sodium, many mods in this section require it
+OptiGUI - Optifine format custom GUI texture support
+Entity Texture Features - Custom entity texture features with Optifine Parity
+Entity Model Features - Custom entity model support with Optifine Parity
+FabricSkyboxes - Custom skybox support for resource packs
+FabricSkyboxes Interop - Adds Optifine and MCPatcher format support to FabricSkyboxes
+Fusion - Connected Texture support for resource packs
+LambDynamicLights - Performant smooth dynamic lighting mod
+Vanadium - A Mod that adds support for custom colors in resource packs
+Modern UI - Adds a modern UI framework, smooth text, emoji support, etc.
+Shimmer - A Mod that adds rendering features like fantasy bloom and colored lighting
+Bedrodium - Small mod that stops rendering the very bottom layer of the world (the bottom side of the last layer of bedrock) to increase performance
+
+Misc
+ViaFabricPlus - Allows you to connect to older minecraft versions. Very useful since Meteor only supports latest versions.
+SeedcrackerX - Fast, Automatic In-Game Seed Cracker for Minecraft.
+ClientCommands - Duplicates few features from Meteor Client, but also contains useful features, like cracking rng seed or printing entity data
+WorldTools - A World Downloader mod for modern versions, supports downloading chunk data, entity data, and block entity data from servers into a single player save
+UI Utils - A Dupe hunting mod for inventory GUIs
+Blocked Servers Bypass - Does what the name says, bypasses minecraft's server blacklist
+JsMacros - A powerful scripting mod for minecraft, has addons to support multiple coding languages
+Fast IP Ping - greatly speeds up pinging servers when you use an IP address to connect, perfect for use with an addon like Server Seeker
+Stendhal - A great client-sided mod for editing text in books, signs, anvils, etc.
+Server Unpacker - A server resource pack unpacker, uses minecraft game logic so it bypasses tricks to prevent resource pack unpacking, as long as the game can load it, the mod can unpack it
+NBT Editor - A useful NBT Editor with a client-sided storage UI to easily save items and retrive them across servers, provided you have creative mode or OP.
+NoRefreshScroll - A simple mod to stop the server list from scrolling to the top when refreshing, great for use with server seeker
+MCShare - Adds a simple and useful system to export and import minecraft worlds, especially useful when used with ServerSeeker and WorldTools
+
+Uncompatiable Mods
+Inertia Client
+Wurst Client
+Aristois Client
+Feather Client
+Optifine or Optifabric
+As stated in additionals, Optifine is and never will be compatible with Meteor. 
+Origins
+Better Mount HUD
+Armor Chroma
